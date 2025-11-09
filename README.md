@@ -1,2 +1,2 @@
 # nautilus-konsole
-Open a directory in Konsole using Nautilus.
+Just a very simple extension to open a directory in Konsole using Nautilus.
